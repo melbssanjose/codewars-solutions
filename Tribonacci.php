@@ -1,3 +1,4 @@
+<?php
 
 function tribonacci($signature, $n) {
   
