@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Everyone knows passphrases. One can choose passphrases from poems, songs, movies names and so on but frequently they can be guessed due to common cultural references. You can get your passphrases stronger by different means. One is the following:
  * choose a text in capital letters including or not digits and non alphabetic characters,
