@@ -1,3 +1,4 @@
+<?php
 /**
   * Given an array, find the int that appears an odd number of times.
   *
