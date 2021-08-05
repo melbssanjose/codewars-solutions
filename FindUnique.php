@@ -16,3 +16,12 @@ function find_uniq($a) {
   return 0;
   
 }
+
+
+//check it
+/*
+
+sort($a);
+  
+  return ($a[0] === $a[1]) ? end($a) : current($a);
+*/
